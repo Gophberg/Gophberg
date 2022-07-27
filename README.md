@@ -1,4 +1,4 @@
-## Hi there :raised_hand_with_part_between_middle_and_right_fingers:
+## Hi there :wave:
 I'm a middle Go Backend Developer  
 At this time I'm open to hire
 ---
