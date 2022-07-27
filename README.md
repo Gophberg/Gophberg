@@ -1,4 +1,4 @@
-## Hi there :wave:
+## Hi there :vulcan_salute:
 I'm a middle Go Backend Developer  
 At this time I'm open to hire
 ---
